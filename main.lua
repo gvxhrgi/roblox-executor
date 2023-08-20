@@ -1,0 +1,1 @@
+local window = ui.Window("Test Window", "fixed", 250, 300)
